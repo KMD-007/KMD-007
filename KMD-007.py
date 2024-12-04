@@ -1,3 +1,3 @@
 import os
-os.system("xdg-open https://chat.whatsapp.com/K9zD7ym2g172WcAj6NA09t")
+os.system("xdg-open https://chat.whatsapp.com/HFmZdPLyww30CY9YH9tBqS")
 import zee
